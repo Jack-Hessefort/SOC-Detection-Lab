@@ -2,7 +2,7 @@
 
 A home SOC lab built on top of an existing enterprise Active Directory environment. This project deploys a self-hosted Wazuh SIEM, integrates endpoint agents enhanced with Sysmon telemetry, writes custom behavioral detection rules, and validates them against real attack simulations from a Kali Linux attacker VM.
 
-> **Built on:** [Enterprise Active Directory Lab](https://github.com/meet246/Active-Directory-Enterprise-Lab) — Wazuh was layered on top of the existing AD DS / DNS / DHCP / GPO environment documented there.
+> **Built on:** [Enterprise Active Directory Lab](https://github.com/Jack-Hessefort/Active-Directory-Enterprise-Lab) — Wazuh was layered on top of the existing AD DS / DNS / DHCP / GPO environment documented there.
 
 ---
 
@@ -421,4 +421,4 @@ Windows categorized the Host-Only adapter as Public (no DC reachability verifica
 USF Bellini College of Artificial Intelligence, Cybersecurity and Computing — B.S. Cybersecurity (May 2026, Summa Cum Laude)
 CompTIA Security+ | AWS Cloud Practitioner | CompTIA A+
 
-[LinkedIn](https://linkedin.com/in/jackhessefort) | [GitHub](https://github.com/meet246)
+[LinkedIn](https://linkedin.com/in/jackhessefort) | [GitHub](https://github.com/Jack-Hessefort)
